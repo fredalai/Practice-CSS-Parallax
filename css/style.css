@@ -24,6 +24,18 @@ body {
   background-size: cover;
 }
 
+footer {
+  align-items: center;
+  border-top: 1px solid #dadada;
+  color: #999999;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.125rem;
+  height: 88px;
+  justify-content: center;
+  width: 100vw;
+}
+
 .view-title {
   -webkit-text-stroke: 1px Gray;
   align-items: center;
