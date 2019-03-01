@@ -3,11 +3,33 @@ body {
   margin: 0px;
 }
 
+.bgi-a {
+  background-attachment: fixed;
+  background-image: url('../image/Mississippi_River.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgi-b {
+  background-attachment: fixed;
+  background-image: url('../image/Lake.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgi-c {
+  background-attachment: fixed;
+  background-image: url('../image/HouFeng_Bikeway.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .view-title {
   align-items: center;
   display: flex;
   font-size: 50px;
   height: 100vh;
   justify-content: center;
+  margin-bottom: 2em;
   width: 100vw;
 }
